@@ -1,0 +1,18 @@
+com/utils/BrowserDriver.java
+ com.utils.BrowserDriver
+com/utils/PropertyLoader.java
+ com.utils.PropertyLoader
+com/utils/Config.java
+ com.utils.Config
+com/checkers/pages/FindStorePage.java
+ com.checkers.pages.FindStorePage
+com/PageBase.java
+ com.PageBase
+com/checkers/pages/HomePage.java
+ com.checkers.pages.HomePage
+com/shoprite/pages/HomePage.java
+ com.shoprite.pages.HomePage
+com/shoprite/pages/SignUpUserDetails.java
+ com.shoprite.pages.SignUpUserDetails
+com/shoprite/pages/SignUpPageMobilePage.java
+ com.shoprite.pages.SignUpPageMobilePage

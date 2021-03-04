@@ -1,0 +1,10 @@
+com/shoprite/ShopriteTestBase.java
+ com.shoprite.ShopriteTestBase
+com/checkers/TestBase.java
+ com.checkers.TestBase
+com/utils/TestDataProver.java
+ com.utils.TestDataProver
+com/checkers/FindStoreTest.java
+ com.checkers.FindStoreTest
+com/shoprite/SignupTest.java
+ com.shoprite.SignupTest
